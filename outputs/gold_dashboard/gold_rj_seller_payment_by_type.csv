@@ -1,0 +1,5 @@
+payment_type,payment_count,order_count,average_payment_value,total_payment_value
+debit_card,49,49,253.92,12442.11
+credit_card,2818,2806,229.07,645517.79
+boleto,537,537,163.09,87580.0
+voucher,144,93,73.16,10535.67

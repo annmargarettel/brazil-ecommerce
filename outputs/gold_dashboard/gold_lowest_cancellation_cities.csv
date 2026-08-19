@@ -1,0 +1,4 @@
+customer_state,customer_city,total_orders,canceled_orders,cancellation_rate_pct,orders_2017,payment_volume_2017
+MG,uberlandia,374,0,0.0,183,27984.92
+ES,serra,285,0,0.0,134,18759.35
+MT,cuiaba,248,0,0.0,98,21228.05

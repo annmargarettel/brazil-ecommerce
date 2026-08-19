@@ -1,0 +1,539 @@
+customer_state,customer_city,total_orders,canceled_orders,cancellation_rate_pct
+SP,ribeirao preto,510,1,0.2
+DF,brasilia,2131,7,0.33
+SP,taubate,270,3,1.11
+SP,sorocaba,633,7,1.11
+SP,guaruja,226,1,0.44
+SP,sao jose do rio pardo,44,0,0.0
+SP,maua,323,2,0.62
+SP,sao bernardo do campo,938,8,0.85
+SP,paulinia,130,0,0.0
+SP,praia grande,311,3,0.96
+MG,pouso alegre,131,0,0.0
+GO,rio verde,66,0,0.0
+SP,jandira,85,0,0.0
+MG,extrema,40,0,0.0
+SP,birigui,79,0,0.0
+SP,piracicaba,369,4,1.08
+SC,sao bento do sul,45,0,0.0
+RJ,mesquita,75,0,0.0
+CE,sobral,36,1,2.78
+SC,mafra,28,1,3.57
+BA,alagoinhas,40,0,0.0
+RJ,nova iguacu,442,1,0.23
+SP,ilhabela,46,0,0.0
+MG,betim,203,1,0.49
+SP,carapicuiba,328,1,0.3
+MT,lucas do rio verde,24,1,4.17
+BA,eunapolis,38,0,0.0
+MG,arcos,25,0,0.0
+RS,esteio,41,1,2.44
+SP,cruzeiro,56,0,0.0
+SP,votorantim,85,1,1.18
+SP,lencois paulista,45,1,2.22
+SP,artur nogueira,43,1,2.33
+BA,dias d'avila,24,0,0.0
+SP,tiete,37,0,0.0
+PR,paranavai,47,1,2.13
+MG,ibirite,50,0,0.0
+PE,jaboatao dos guararapes,135,2,1.48
+PR,pinhais,69,0,0.0
+TO,araguaina,41,1,2.44
+SP,pedreira,36,0,0.0
+RJ,paracambi,35,0,0.0
+SP,mongagua,42,0,0.0
+SP,tatui,75,1,1.33
+MT,sorriso,20,0,0.0
+MG,machado,21,0,0.0
+MG,lavras,83,0,0.0
+PE,olinda,93,0,0.0
+MG,cambui,22,0,0.0
+MG,tres pontas,20,0,0.0
+SC,tijucas,30,0,0.0
+SC,gaspar,30,1,3.33
+SP,sao joao da boa vista,82,0,0.0
+SP,itarare,29,0,0.0
+SP,rancharia,22,0,0.0
+MG,itajuba,94,0,0.0
+SP,mairinque,25,0,0.0
+RS,capao da canoa,38,0,0.0
+SP,ibitinga,22,0,0.0
+GO,valparaiso de goias,37,0,0.0
+SP,ibiuna,31,0,0.0
+SP,bertioga,49,0,0.0
+RS,sapiranga,26,1,3.85
+SP,santo andre,796,6,0.75
+SP,rio claro,154,0,0.0
+RJ,sao goncalo,409,1,0.24
+SP,jundiai,565,6,1.06
+RJ,campos dos goytacazes,238,0,0.0
+SE,aracaju,225,1,0.44
+RJ,niteroi,849,4,0.47
+MG,monte carmelo,24,1,4.17
+PE,caruaru,64,0,0.0
+SP,indaiatuba,280,2,0.71
+PB,joao pessoa,256,2,0.78
+ES,serra,285,0,0.0
+MG,uba,53,0,0.0
+SP,americana,224,2,0.89
+SP,barretos,73,0,0.0
+SC,blumenau,188,1,0.53
+SP,embu das artes,165,2,1.21
+MG,caete,27,0,0.0
+RS,canoas,210,0,0.0
+GO,aparecida de goiania,110,1,0.91
+SP,poa,85,0,0.0
+SP,itatiba,97,0,0.0
+SP,itu,136,3,2.21
+MG,tres coracoes,43,0,0.0
+PR,foz do iguacu,87,0,0.0
+MG,ponte nova,41,2,4.88
+BA,brumado,22,0,0.0
+RJ,rio bonito,28,1,3.57
+SP,franco da rocha,109,0,0.0
+BA,itabuna,62,0,0.0
+SP,mogi mirim,76,0,0.0
+PB,campina grande,68,0,0.0
+BA,luis eduardo magalhaes,36,0,0.0
+SP,itapolis,28,0,0.0
+SP,ferraz de vasconcelos,111,1,0.9
+MG,sao lourenco,34,0,0.0
+RS,rio grande,125,1,0.8
+MG,para de minas,37,0,0.0
+RJ,queimados,54,0,0.0
+SP,mairipora,75,0,0.0
+SC,navegantes,31,0,0.0
+PR,pato branco,53,0,0.0
+MA,imperatriz,40,0,0.0
+SP,jaguariuna,62,0,0.0
+RS,gramado,30,0,0.0
+SP,aguas de lindoia,23,0,0.0
+MG,januaria,22,0,0.0
+MG,itabirito,32,1,3.13
+MG,formiga,32,0,0.0
+RS,venancio aires,26,0,0.0
+MG,caratinga,62,0,0.0
+RS,montenegro,32,0,0.0
+CE,aracati,22,0,0.0
+CE,maracanau,35,1,2.86
+PR,cianorte,39,0,0.0
+BA,ilheus,72,0,0.0
+MG,guaxupe,37,0,0.0
+SC,canoinhas,27,0,0.0
+SP,mococa,34,0,0.0
+SC,biguacu,25,0,0.0
+MG,nanuque,25,0,0.0
+SP,barueri,433,4,0.92
+MG,belo horizonte,2773,17,0.61
+RJ,petropolis,240,3,1.25
+RS,gravatai,112,0,0.0
+MG,coronel fabriciano,41,0,0.0
+SC,garopaba,23,0,0.0
+AL,maceio,247,0,0.0
+PR,toledo,71,0,0.0
+SP,presidente prudente,161,1,0.62
+SC,chapeco,103,1,0.97
+RS,cachoeirinha,72,0,0.0
+RS,viamao,73,0,0.0
+RO,porto velho,113,2,1.77
+AM,manaus,140,0,0.0
+RJ,sao joao de meriti,134,1,0.75
+TO,palmas,91,0,0.0
+SP,dracena,28,0,0.0
+MG,montes claros,211,2,0.95
+SP,monte alto,34,0,0.0
+RJ,cabo frio,117,2,1.71
+SP,porto feliz,22,0,0.0
+SP,aracatuba,141,0,0.0
+SP,nova odessa,38,0,0.0
+SP,cotia,250,1,0.4
+ES,vitoria,379,2,0.53
+BA,jacobina,24,1,4.17
+RJ,itaperuna,47,1,2.13
+RJ,araruama,77,0,0.0
+MG,barbacena,80,0,0.0
+RS,uruguaiana,48,1,2.08
+RJ,belford roxo,111,1,0.9
+GO,catalao,34,0,0.0
+PR,fazenda rio grande,29,0,0.0
+MG,vicosa,89,0,0.0
+SP,sao sebastiao,60,0,0.0
+PR,paranagua,60,1,1.67
+PR,marechal candido rondon,31,0,0.0
+PR,uniao da vitoria,29,0,0.0
+SP,aparecida,25,0,0.0
+BA,vitoria da conquista,92,2,2.17
+PR,irati,22,0,0.0
+SP,tambau,20,0,0.0
+MG,alfenas,43,0,0.0
+SC,tubarao,60,0,0.0
+PR,telemaco borba,35,0,0.0
+SP,presidente epitacio,23,0,0.0
+SP,louveira,44,0,0.0
+ES,aracruz,41,0,0.0
+BA,valenca,35,0,0.0
+SP,avare,64,0,0.0
+SP,presidente venceslau,26,0,0.0
+RJ,miguel pereira,28,0,0.0
+RS,vacaria,23,1,4.35
+MG,varginha,89,1,1.12
+SC,cacador,40,0,0.0
+MT,rondonopolis,65,0,0.0
+SP,rio grande da serra,26,1,3.85
+RS,estancia velha,20,0,0.0
+PE,petrolina,65,0,0.0
+SC,joacaba,26,0,0.0
+MG,curvelo,44,2,4.55
+MG,salinas,22,0,0.0
+SC,indaial,26,0,0.0
+MG,pitangui,22,0,0.0
+RJ,japeri,34,0,0.0
+RS,ibiruba,21,0,0.0
+GO,trindade,24,0,0.0
+RJ,casimiro de abreu,20,0,0.0
+SC,timbo,20,0,0.0
+ES,cariacica,139,1,0.72
+SP,vinhedo,95,1,1.05
+SP,limeira,190,2,1.05
+MG,uberlandia,374,0,0.0
+MG,pocos de caldas,122,1,0.82
+RJ,macae,239,2,0.84
+SP,osasco,746,8,1.07
+SP,salto,95,1,1.05
+SP,ourinhos,80,0,0.0
+SC,palhoca,95,1,1.05
+SP,sao jose do rio preto,335,1,0.3
+PR,maringa,271,3,1.11
+SP,itanhaem,80,0,0.0
+PE,cabo de santo agostinho,21,0,0.0
+MG,santa rita do sapucai,35,0,0.0
+SC,sao jose,169,1,0.59
+RJ,barra mansa,123,1,0.81
+RJ,sao pedro da aldeia,46,0,0.0
+MG,patrocinio,47,0,0.0
+RJ,saquarema,47,0,0.0
+SP,pederneiras,21,0,0.0
+SP,ubatuba,76,0,0.0
+MG,sabara,42,0,0.0
+SP,piedade,23,0,0.0
+SP,catanduva,75,1,1.33
+SC,itajai,120,1,0.83
+SP,aruja,69,0,0.0
+MT,sinop,46,1,2.17
+SP,cacapava,74,1,1.35
+SP,lins,55,1,1.82
+MG,sao sebastiao do paraiso,36,0,0.0
+SP,sao manuel,21,1,4.76
+RS,santana do livramento,20,0,0.0
+MG,carangola,27,1,3.7
+AP,macapa,54,0,0.0
+GO,aguas lindas de goias,24,0,0.0
+RJ,teresopolis,120,0,0.0
+RJ,angra dos reis,85,1,1.18
+PR,campo largo,37,0,0.0
+SP,atibaia,159,1,0.63
+PR,rolandia,27,0,0.0
+SP,lorena,83,1,1.2
+SP,embu-guacu,46,0,0.0
+SP,adamantina,36,0,0.0
+SP,jaboticabal,54,1,1.85
+SP,registro,50,2,4.0
+MG,congonhas,30,0,0.0
+SP,capivari,35,0,0.0
+SP,votuporanga,63,0,0.0
+SP,mirassol,29,0,0.0
+SP,assis,84,0,0.0
+BA,santo antonio de jesus,30,0,0.0
+SP,pirassununga,69,0,0.0
+MG,timoteo,54,2,3.7
+PR,almirante tamandare,35,0,0.0
+PA,altamira,25,0,0.0
+RN,parnamirim,59,0,0.0
+GO,itumbiara,36,0,0.0
+SP,paraguacu paulista,20,0,0.0
+SP,juquitiba,21,0,0.0
+MS,dourados,64,1,1.56
+PA,santarem,44,0,0.0
+SP,leme,50,0,0.0
+SP,cerquilho,30,0,0.0
+RJ,santo antonio de padua,32,1,3.13
+MG,frutal,26,0,0.0
+GO,formosa,34,0,0.0
+SP,santo antonio de posse,20,0,0.0
+RJ,arraial do cabo,29,0,0.0
+RS,santo angelo,46,0,0.0
+GO,mineiros,26,1,3.85
+RS,osorio,35,0,0.0
+SC,braco do norte,20,0,0.0
+RJ,cachoeiras de macacu,21,0,0.0
+SP,braganca paulista,146,0,0.0
+PR,curitiba,1521,10,0.66
+RJ,mage,111,1,0.9
+SP,bauru,273,1,0.37
+PR,medianeira,23,2,8.7
+RS,santa maria,194,0,0.0
+RR,boa vista,45,1,2.22
+SC,curitibanos,21,0,0.0
+SP,santos,713,3,0.42
+SP,sao vicente,163,2,1.23
+ES,guarapari,67,0,0.0
+SP,cachoeira paulista,25,0,0.0
+RS,passo fundo,113,1,0.88
+MG,coromandel,25,0,0.0
+CE,fortaleza,654,4,0.61
+SP,amparo,67,0,0.0
+PE,paulista,41,0,0.0
+PR,londrina,306,1,0.33
+SP,valinhos,183,1,0.55
+RJ,volta redonda,232,0,0.0
+MG,nova lima,98,0,0.0
+SC,criciuma,93,1,1.08
+BA,barreiras,52,0,0.0
+MG,sao gotardo,20,0,0.0
+RS,novo hamburgo,123,1,0.81
+SP,caraguatatuba,89,2,2.25
+MG,paracatu,63,0,0.0
+SC,rio do sul,35,0,0.0
+RS,pelotas,186,2,1.08
+AC,rio branco,70,0,0.0
+RS,santa rosa,33,0,0.0
+RJ,valenca,28,0,0.0
+SP,araras,94,0,0.0
+PR,dois vizinhos,28,0,0.0
+SP,garca,28,0,0.0
+RJ,nova friburgo,152,2,1.32
+RJ,itaguai,48,1,2.08
+SP,bebedouro,51,0,0.0
+SP,capao bonito,28,0,0.0
+PR,campo mourao,56,0,0.0
+RJ,cordeiro,24,0,0.0
+PR,guarapuava,65,0,0.0
+MG,muriae,64,1,1.56
+MG,unai,54,0,0.0
+SP,santa cruz do rio pardo,35,0,0.0
+CE,caucaia,35,0,0.0
+RS,marau,22,0,0.0
+SP,vargem grande paulista,44,0,0.0
+SP,ribeirao pires,109,0,0.0
+SP,tremembe,38,0,0.0
+RS,bage,65,1,1.54
+SC,camboriu,28,1,3.57
+MS,corumba,28,0,0.0
+MG,santa barbara,26,0,0.0
+SP,penapolis,37,0,0.0
+PR,francisco beltrao,52,1,1.92
+RS,alegrete,36,1,2.78
+TO,gurupi,24,0,0.0
+MG,nova serrana,51,0,0.0
+GO,luziania,33,0,0.0
+RJ,barra do pirai,54,2,3.7
+MG,vespasiano,45,2,4.44
+BA,guanambi,38,1,2.63
+RS,farroupilha,28,0,0.0
+SP,taquaritinga,33,0,0.0
+SP,batatais,28,0,0.0
+SP,orlandia,29,0,0.0
+RJ,tres rios,40,0,0.0
+MG,claudio,22,1,4.55
+SP,monte mor,40,1,2.5
+SP,porto ferreira,28,1,3.57
+RN,natal,207,0,0.0
+MG,araxa,78,1,1.28
+MG,araguari,54,0,0.0
+SP,francisco morato,100,2,2.0
+PR,ponta grossa,143,0,0.0
+CE,juazeiro do norte,34,0,0.0
+SP,mogi-guacu,93,1,1.08
+PA,belem,443,2,0.45
+PE,camaragibe,35,0,0.0
+SP,suzano,234,0,0.0
+RJ,duque de caxias,266,2,0.75
+SP,franca,161,1,0.62
+SC,sao miguel do oeste,40,0,0.0
+GO,anapolis,113,2,1.77
+SP,fernandopolis,53,0,0.0
+RS,bento goncalves,56,1,1.79
+SP,hortolandia,145,0,0.0
+SP,itapecerica da serra,98,0,0.0
+MG,manhuacu,65,0,0.0
+SP,santana de parnaiba,185,4,2.16
+SP,sao caetano do sul,277,1,0.36
+SP,sao carlos,236,4,1.69
+RS,santa cruz do sul,62,0,0.0
+RJ,nilopolis,107,1,0.93
+SP,marilia,196,0,0.0
+PR,castro,22,0,0.0
+SP,campo limpo paulista,48,0,0.0
+SP,pindamonhangaba,101,1,0.99
+SP,matao,52,0,0.0
+PI,teresina,281,2,0.71
+BA,feira de santana,185,0,0.0
+ES,vila velha,334,4,1.2
+MG,campo belo,21,0,0.0
+BA,teixeira de freitas,29,0,0.0
+ES,cachoeiro de itapemirim,122,0,0.0
+MG,ituiutaba,56,1,1.79
+RJ,itaborai,60,2,3.33
+RS,carlos barbosa,20,0,0.0
+MG,joao monlevade,51,0,0.0
+SP,campos do jordao,26,1,3.85
+SC,xanxere,29,0,0.0
+GO,jatai,54,0,0.0
+MG,lagoa santa,59,0,0.0
+MG,ipatinga,171,1,0.58
+MG,divinopolis,137,2,1.46
+RS,sao gabriel,24,1,4.17
+SP,itupeva,44,0,0.0
+SP,araraquara,155,1,0.65
+MS,tres lagoas,42,0,0.0
+RJ,armacao dos buzios,29,0,0.0
+SC,videira,47,0,0.0
+ES,sao mateus,48,0,0.0
+MT,caceres,25,0,0.0
+PR,arapongas,35,0,0.0
+SP,peruibe,44,1,2.27
+BA,simoes filho,21,0,0.0
+BA,juazeiro,44,0,0.0
+PA,maraba,22,0,0.0
+PR,matinhos,27,0,0.0
+RS,alvorada,50,0,0.0
+ES,viana,21,0,0.0
+RJ,vassouras,37,0,0.0
+AL,arapiraca,29,0,0.0
+PA,castanhal,22,1,4.55
+SP,ituverava,30,0,0.0
+MT,primavera do leste,28,0,0.0
+SP,jales,30,1,3.33
+MG,oliveira,22,0,0.0
+RS,cachoeira do sul,32,0,0.0
+RS,sapucaia do sul,40,0,0.0
+SP,sao paulo,15540,140,0.9
+RJ,rio de janeiro,6882,48,0.7
+SP,mogi das cruzes,383,4,1.04
+SP,itapevi,170,0,0.0
+MG,uberaba,191,2,1.05
+GO,goiania,692,7,1.01
+RS,erechim,58,1,1.72
+RJ,marica,139,2,1.44
+SC,brusque,60,0,0.0
+SP,itapetininga,78,0,0.0
+MG,governador valadares,141,4,2.84
+SP,santa barbara d'oeste,119,0,0.0
+SC,joinville,264,2,0.76
+MG,teofilo otoni,75,0,0.0
+RJ,rio das ostras,137,1,0.73
+PR,cascavel,148,0,0.0
+SP,guaratingueta,98,0,0.0
+MG,conselheiro lafaiete,84,0,0.0
+PE,recife,613,2,0.33
+RS,campo bom,36,0,0.0
+SP,tupa,53,0,0.0
+MG,sete lagoas,128,0,0.0
+SC,lages,84,0,0.0
+BA,jequie,36,1,2.78
+MG,ouro branco,41,0,0.0
+GO,caldas novas,36,0,0.0
+SP,andradina,43,1,2.33
+RS,guaiba,31,0,0.0
+SP,itapira,55,0,0.0
+PA,ananindeua,88,0,0.0
+MG,ouro preto,57,0,0.0
+BA,porto seguro,41,1,2.44
+MG,capelinha,20,0,0.0
+SP,cajamar,101,1,0.99
+PR,cambe,27,0,0.0
+MT,barra do garcas,25,0,0.0
+RJ,seropedica,33,0,0.0
+MG,itabira,79,0,0.0
+SP,sao joaquim da barra,34,0,0.0
+PR,apucarana,52,0,0.0
+SC,balneario camboriu,100,1,1.0
+SP,varzea paulista,80,0,0.0
+SP,sertaozinho,62,1,1.61
+SP,holambra,24,0,0.0
+SC,itapema,44,0,0.0
+MG,itauna,57,0,0.0
+SC,icara,21,0,0.0
+SC,imbituba,34,0,0.0
+SP,cubatao,79,0,0.0
+RS,carazinho,24,0,0.0
+PR,umuarama,41,0,0.0
+PR,laranjeiras do sul,20,0,0.0
+SP,piracaia,22,1,4.55
+MG,pirapora,42,0,0.0
+SP,santa fe do sul,35,0,0.0
+RJ,sao fidelis,23,0,0.0
+MG,brumadinho,26,0,0.0
+MG,santa luzia,93,1,1.08
+PE,garanhuns,31,0,0.0
+MT,tangara da serra,24,0,0.0
+RS,santiago,26,0,0.0
+SP,ilha solteira,24,0,0.0
+SP,cosmopolis,52,0,0.0
+RS,sao leopoldo,105,1,0.95
+SP,guarulhos,1189,13,1.09
+SP,campinas,1444,11,0.76
+BA,salvador,1245,4,0.32
+RS,porto alegre,1379,5,0.36
+SP,sao roque,79,2,2.53
+SP,itaquaquecetuba,172,2,1.16
+SC,florianopolis,570,5,0.88
+PR,cornelio procopio,24,0,0.0
+SP,itapeva,53,0,0.0
+SP,cravinhos,24,0,0.0
+SC,concordia,50,0,0.0
+MG,sao joao del rei,67,0,0.0
+MG,bom despacho,39,0,0.0
+SP,sao jose dos campos,691,4,0.58
+MG,juiz de fora,427,1,0.23
+SP,jacarei,194,3,1.55
+MS,campo grande,320,1,0.31
+MG,ribeirao das neves,101,0,0.0
+SP,taboao da serra,296,2,0.68
+SP,sumare,183,4,2.19
+RS,cruz alta,33,1,3.03
+MG,contagem,426,4,0.94
+BA,lauro de freitas,75,0,0.0
+MT,cuiaba,248,0,0.0
+MA,sao luis,353,3,0.85
+ES,colatina,65,0,0.0
+PR,sao jose dos pinhais,133,0,0.0
+ES,linhares,65,1,1.54
+RS,caxias do sul,224,1,0.45
+PR,colombo,62,0,0.0
+RJ,resende,117,0,0.0
+MG,pedro leopoldo,40,0,0.0
+SP,diadema,286,2,0.7
+SC,jaragua do sul,89,0,0.0
+MG,cataguases,33,0,0.0
+SP,caieiras,102,2,1.96
+RS,ijui,52,0,0.0
+RJ,bom jesus do itabapoana,21,0,0.0
+MG,piumhii,28,0,0.0
+MG,mariana,33,0,0.0
+SP,botucatu,101,0,0.0
+RN,mossoro,37,0,0.0
+RS,lajeado,50,0,0.0
+PR,araucaria,54,0,0.0
+SP,santa isabel,30,0,0.0
+RS,tramandai,25,0,0.0
+SP,barrinha,20,1,5.0
+SP,olimpia,38,1,2.63
+MG,monte siao,20,0,0.0
+SP,barra bonita,29,0,0.0
+MT,varzea grande,41,0,0.0
+MG,passos,43,0,0.0
+BA,camacari,61,0,0.0
+SP,boituva,50,0,0.0
+MG,patos de minas,100,0,0.0
+SP,guaira,36,0,0.0
+RS,taquara,21,0,0.0
+PI,parnaiba,23,0,0.0
+MG,alem paraiba,29,0,0.0
+RJ,guapimirim,23,0,0.0
+PA,parauapebas,27,0,0.0
+SP,promissao,32,1,3.13
+BA,paulo afonso,40,0,0.0
+SP,jau,74,0,0.0
+MG,diamantina,27,0,0.0
+MG,santos dumont,22,0,0.0
