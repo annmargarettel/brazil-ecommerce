@@ -1,0 +1,27 @@
+python:
+  - changed-files:
+      - any-glob-to-any-file:
+          - "**/*.py"
+
+notebooks:
+  - changed-files:
+      - any-glob-to-any-file:
+          - "notebooks/**"
+
+data-pipeline:
+  - changed-files:
+      - any-glob-to-any-file:
+          - "scripts/**"
+          - "notebooks/**"
+          - "databricks.yml"
+          - "resources/**"
+
+documentation:
+  - changed-files:
+      - any-glob-to-any-file:
+          - "**/*.md"
+
+github-actions:
+  - changed-files:
+      - any-glob-to-any-file:
+          - ".github/**"
