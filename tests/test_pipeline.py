@@ -1,6 +1,7 @@
 # tests/test_pipeline.py
 import duckdb
 
+
 def test_orders_fixture():
     con = duckdb.connect()
     result = con.execute(
