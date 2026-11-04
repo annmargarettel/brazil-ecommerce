@@ -1,27 +1,17 @@
-python:
-  - changed-files:
-      - any-glob-to-any-file:
-          - "**/*.py"
+name: Pull request labeling
 
-notebooks:
-  - changed-files:
-      - any-glob-to-any-file:
-          - "notebooks/**"
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened]
 
-data-pipeline:
-  - changed-files:
-      - any-glob-to-any-file:
-          - "scripts/**"
-          - "notebooks/**"
-          - "databricks.yml"
-          - "resources/**"
+permissions:
+  contents: read
+  pull-requests: write
 
-documentation:
-  - changed-files:
-      - any-glob-to-any-file:
-          - "**/*.md"
-
-github-actions:
-  - changed-files:
-      - any-glob-to-any-file:
-          - ".github/**"
+jobs:
+  label:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/labeler@v6
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
