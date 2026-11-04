@@ -1,0 +1,6 @@
+duckdb
+pandas
+jupyter
+nbconvert
+pytest
+ruff
